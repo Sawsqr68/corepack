@@ -34,12 +34,12 @@
     "proxy-from-env": "^1.1.0",
     "semver": "^7.6.3",
     "supports-color": "^10.0.0",
-    "tar": "^7.4.0",
+    "tar": "^7.5.21",
     "tsx": "^4.16.2",
     "typescript": "^5.7.3",
-    "undici": "^6.21.2",
+    "undici": "^6.28.1",
     "v8-compile-cache": "^2.3.0",
-    "vitest": "^3.0.5",
+    "vitest": "^3.2.6",
     "which": "^5.0.0"
   },
   "resolutions": {
